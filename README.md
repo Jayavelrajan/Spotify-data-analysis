@@ -10,6 +10,7 @@ The data used for this analysis was sourced from Spotify's API, which provides i
 - Power BI: Used for data visualization and analysis, creating interactive reports and dashboards.
 - Spotify API: Accessed to retrieve streaming data for analysis.
 - Python: Potentially used for data preprocessing and cleaning before importing into Power BI.
+- Microsoft Excel: Utilized for data preprocessing, cleaning, and potentially for some additional analysis or calculations before importing into Power BI.
 
 ## Analysis Highlights
 - Trend analysis of streaming patterns over the years.
@@ -27,13 +28,7 @@ The data used for this analysis was sourced from Spotify's API, which provides i
 ## Screenshots/Demo
 Include screenshots or a brief demo video showcasing the interactive visualizations and key findings from the analysis.
 
-## Future Improvements
-- Incorporate additional data sources for deeper analysis, such as user demographics or user-generated playlists.
-- Enhance visualizations with more advanced features and custom visuals.
-- Explore machine learning models for predictive analysis, such as predicting song popularity or user preferences.
 
-## Contributors
-- [Your Name](https://github.com/yourusername) - Role/Responsibility
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
