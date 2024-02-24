@@ -27,6 +27,11 @@ The data used for this analysis was sourced from Spotify's API, which provides i
 
 ## Screenshots/Demo
 Include screenshots or a brief demo video showcasing the interactive visualizations and key findings from the analysis.
+![image](1.png)
+![image](2.png)
+![image](3.png)
+![image](4.pngG)
+![image](screenrecord.gif)
 
 
 
