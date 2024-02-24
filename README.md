@@ -30,7 +30,9 @@ Include screenshots or a brief demo video showcasing the interactive visualizati
 ![image](1.png)
 ![image](2.png)
 ![image](3.png)
-![image](4.pngG)
+![image](4.png)
+
+## Click the play button to play
 ![image](screenrecord.gif)
 
 
