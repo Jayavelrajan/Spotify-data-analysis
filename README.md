@@ -22,7 +22,7 @@ The data used for this analysis was sourced from Spotify's API, which provides i
 ## How to Use
 1. Clone the repository to your local machine.
 2. Import the provided dataset into Power BI.
-3. Open the Power BI file (`.pbix`) to explore the interactive visualizations and analysis.
+3. Open the Power BI file (`spotify2023Analysis.pbix`) to explore the interactive visualizations and analysis.
 4. Customize and extend the analysis as needed for your own insights.
 
 ## Screenshots/Demo
